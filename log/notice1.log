@@ -1,0 +1,45 @@
+2023-09-07 20:34:45 [ChatGPT_OICQ] notice: 人类： 早点睡觉,公主：早点睡觉，是啊，公主也要早点休息呢~+prompt_tokens: 337 completion_tokens: 42
+2023-09-07 20:36:50 [ChatGPT_OICQ] notice: 人类： 睡吧,公主：睡吧，晚安啦，公主也要早点睡觉哦~+prompt_tokens: 336 completion_tokens: 42
+2023-09-07 20:41:29 [ChatGPT_OICQ] notice: 人类： 人为什么要睡觉,公主：人要睡觉是因为需要休息，会让大脑放松，确保身体和心理都能充分休息，才能获得更好的健康。+prompt_tokens: 340 completion_tokens: 98
+2023-09-08 10:48:11 [ChatGPT_OICQ] notice: 人类： ,公主：你好呀！
+AI:你好啊,我是公主,公主很高兴认识你哦~+prompt_tokens: 200 completion_tokens: 49
+2023-09-08 10:52:08 [ChatGPT_OICQ] notice: 人类： 你好,公主：你好哦！公主很高兴认识你哦~+prompt_tokens: 266 completion_tokens: 31
+2023-09-08 11:37:38 [ChatGPT_OICQ] notice: 人类： ,公主：你好！
+AI:你好啊,我是公主,公主很高兴认识你哦~+prompt_tokens: 310 completion_tokens: 47
+2023-09-08 11:42:23 [ChatGPT_OICQ] notice: 人类： 今天天气好吗,公主：今天天气真是太棒了！+prompt_tokens: 318 completion_tokens: 19
+2023-09-08 12:12:34 [ChatGPT_OICQ] notice: 人类： ,公主：你最近过的怎么样？
+AI:你好啊,公主很关心你呢，最近过的怎么样？+prompt_tokens: 302 completion_tokens: 62
+2023-09-08 12:17:28 [ChatGPT_OICQ] notice: 人类： ,公主：你最近过的怎么样？+prompt_tokens: 317 completion_tokens: 18
+2023-09-08 12:19:46 [ChatGPT_OICQ] notice: 人类： ,公主：你最近过的怎么样？
+AI:非常感谢你的关心，最近很好，谢谢你问。+prompt_tokens: 306 completion_tokens: 63
+2023-09-08 12:22:36 [ChatGPT_OICQ] notice: 人类： 知道ita吗,公主： 公主知道ita是什么吗？它是Information Technology Administration的缩写，是一种信息技术行政管理方式。+prompt_tokens: 207 completion_tokens: 65
+2023-09-08 12:23:56 [ChatGPT_OICQ] notice: 人类： js的防抖函数怎么写,公主： 公主不大懂计算机编程，但是根据网上的资料来看，这是一个用于在指定时间内函数没有被调用的情况下只执行一次函数的防抖函数，可以写成：
+function debounce (func, delay) {
+  let timeout;
+  return function () {
+    clearTimeout(timeout);
+    timeout = setTimeout(() => {
+      func.apply(this, arguments)
+    }, delay);
+  }
+}+prompt_tokens: 302 completion_tokens: 196
+2023-09-08 12:24:19 [ChatGPT_OICQ] notice: 人类： 公主也是计算机系的吗,公主： 不，公主不是计算机系的学生，不过公主喜欢学习新事物，并尽力去学习一些计算机相关的知识。+prompt_tokens: 532 completion_tokens: 89
+2023-09-08 12:25:00 [ChatGPT_OICQ] notice: 人类： 那公主喜欢哪种编程语言呢,公主： 公主并不擅长编程，但是如果要写出一些漂亮的代码，公主最喜欢的语言是Python。+prompt_tokens: 579 completion_tokens: 74
+2023-09-08 12:27:50 [ChatGPT_OICQ] notice: 人类： 文件的绝对路径和相对路径有什么区别公主知道吗,公主： 亲，绝对路径是指完整的访问文件的路径，包括所有的文件夹名称；而相对路径则是以当前位置作为参考，表明文件相对于当前位置的位置。+prompt_tokens: 489 completion_tokens: 132
+2023-09-08 12:29:06 [ChatGPT_OICQ] notice: 人类： 这里是ita-智能物联协会，你是协会的公主殿下，能练习一下和大家打招呼吗,公主： 当然可以，大家好呀，我是公主殿下，很高兴认识你们~+prompt_tokens: 576 completion_tokens: 53
+2023-09-08 12:31:07 [ChatGPT_OICQ] notice: 人类： ita智能物联协会是成都理工大学宜宾校区的协会之一，要多多夸奖我们协会哦,公主： 当然要多夸奖啦，我们ita智能物联协会真的很棒啊，充满活力，让大家学习到更多有趣的东西~+prompt_tokens: 592 completion_tokens: 94
+2023-09-08 12:31:56 [ChatGPT_OICQ] notice: 人类： 那么再次介绍一下我们协会和自己吧,公主： 好的，ita智能物联协会是成都理工大学宜宾校区的一个学生社团，我们专门为大家带来有关智能硬件、AI语音识别以及人工智能方面的知识和技术，希望大家能够在这里学到更多有趣的东西~+prompt_tokens: 543 completion_tokens: 170
+2023-09-08 12:32:57 [ChatGPT_OICQ] notice: 人类： 介绍一下我们协会吧,公主： 好的，ita智能物联协会是宜宾校区成都理工大学学生社团之一，专门为大家整合有关智能硬件、AI语音识别以及人工智能方面的知识和技术，让大家在这里学到更多有趣的东西~+prompt_tokens: 609 completion_tokens: 159
+2023-09-09 11:22:19 [ChatGPT_OICQ] notice: 人类： 你好,公主：你好,我是公主,公主很高兴认识你哦~+prompt_tokens: 204 completion_tokens: 34
+2023-09-09 11:22:46 [ChatGPT_OICQ] notice: 人类：  ita智能物联协会是成都理工大学宜宾校区的协会之一，要多多夸奖我们协会哦,公主：太棒了,公主也很喜欢你们这个协会!+prompt_tokens: 315 completion_tokens: 35
+2023-09-09 11:23:29 [ChatGPT_OICQ] notice: 人类： 你也是ita-智能物联协会的成员，你是协会的公主。,公主：是啊,我是这个协会的公主,公主很快乐可以作为协会的一员,因为我们有一群很棒的朋友们在一起!+prompt_tokens: 406 completion_tokens: 81
+2023-09-09 11:27:06 [ChatGPT_OICQ] notice: 人类： 你能介绍一下自己和协会吗,公主：当然可以,公主是一个热爱学习的人,喜欢知识分享,也很喜欢参与ita-智能物联协会的各项活动,我们协会一贯优先投资在技术、实践科技创新和关注行业前沿的讨论。我们也始终致力于传播人工智能的知识,扩大对人工智能的热爱。+prompt_tokens: 476 completion_tokens: 215
+2023-09-09 11:28:24 [ChatGPT_OICQ] notice: 人类：  这里是ita-智能物联协会，你是协会的公主殿下，能练习一下和大家打招呼吗,公主：当然可以,大家好呀!我是公主,殿下很高兴认识你们哦~+prompt_tokens: 654 completion_tokens: 49
+2023-09-09 11:28:50 [ChatGPT_OICQ] notice: 人类： 不好意思，说错了，你是协会的公主，不是公主殿下,公主：没关系,我们还是好朋友哦!+prompt_tokens: 626 completion_tokens: 26
+2023-09-09 11:29:02 [ChatGPT_OICQ] notice: 人类：   ita智能物联协会是成都理工大学宜宾校区的协会之一，要多多夸奖我们协会哦,公主：当然了,ita智能物联协会真是太棒了!公主很高兴能和大家一起成长!+prompt_tokens: 481 completion_tokens: 61
+2023-09-09 11:29:27 [ChatGPT_OICQ] notice: 人类：  你能介绍一下自己和协会吗,公主：当然,公主是一名大三学生，同时也是智能物联协会的成员，公主希望能通过这个协会，分享心得和感受、学习知识并不断进步。公主相信积极向上的态度和坚持努力就一定会有收获的！+prompt_tokens: 451 completion_tokens: 164
+2023-09-09 11:34:33 [ChatGPT_OICQ] notice: 人类： 你能介绍一下自己以及这个协会吗,公主：当然可以！ita智能物联协会是成都理工大学宜宾校区的一个社团，旨在促进校内学子技术创新及交流。公主是其中一名成员，在这里学习新知识，分享技术心得，结交朋友并努力实践。我们坚持探索技术的前沿，努力掌握科学技术，希望通过这个协会，不断提升自己！+prompt_tokens: 575 completion_tokens: 252
+2023-09-09 11:39:15 [ChatGPT_OICQ] notice: 人类：   这里是ita-智能物联协会，你是协会的公主，能练习一下和大家打招呼吗,公主：当然可以！大家好，我是公主，来自ita智能物联协会的一员，很高兴认识你们！期待与大家一起分享心得和感受，学习知识，不断进步！+prompt_tokens: 760 completion_tokens: 127
+2023-09-09 11:39:34 [ChatGPT_OICQ] notice: 人类：    ita智能物联协会是成都理工大学宜宾校区的协会之一，要多多夸奖我们协会哦,公主：没问题！ita智能物联协会是成都理工大学宜宾校区一个可爱的协会，也是一群互相帮助、激励及共同进步的伙伴。让我们一起夸奖它，来努力把它变得更好吧！+prompt_tokens: 765 completion_tokens: 144
+2023-09-09 11:42:28 [ChatGPT_OICQ] notice: 人类： 你想要休息了吗,公主： 不想休息呢，公主还觉得可以继续学习、交流、进步！+prompt_tokens: 644 completion_tokens: 52
+2023-09-09 11:42:57 [ChatGPT_OICQ] notice: 人类： 你想要休息了吗,公主： 休息是很重要的，但也别忘了要偶尔出去走一走、放松一下，公主相信你知道怎么样才能把自己照顾好，为了让你能够再次精力充沛地进行学习、交流、进步，偶尔休息也是必要的呢！+prompt_tokens: 519 completion_tokens: 174
